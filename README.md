@@ -6,7 +6,10 @@ I just dig deeper on [Scala](https://scala-lang.org) world.
 
 ```shell
 scalac HelloWorld.scala
-scala HelloWorld 
+scala HelloWorld
+
+scalac HelloWorldApp.scala
+scala HelloWorldApp 
 ```
 
 ## Cool links
